@@ -1,6 +1,6 @@
 # Snapdragon Studios
 
-![Snapdragon Studios Splash](img/splash.png)
+![Snapdragon Studios Splash](../img/splash.png)
 
 Welcome to the Snapdragon Studios GitHub!
 
